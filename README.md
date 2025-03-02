@@ -1,5 +1,4 @@
-[![](https://raw.githubusercontent.com/sonnamnguyen/sonnamnguyen/master/profile.gif)](https://www.sonnamnguyen.com/)<!-- If you want the template for my gif, email me! -->
-
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
