@@ -1,4 +1,5 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
+[![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://www.sonnamnguyen.com/)
+
 
 ### Languages
 
