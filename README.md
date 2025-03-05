@@ -1,4 +1,4 @@
-[![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://www.sonnamnguyen.com/)
+[![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtheDdtazdrcmRubmQ1M3ZldXUyaGp4czljd3FvcGlvemY2dW5pMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif)](https://www.sonnamnguyen.com/)
 
 
 ### Languages
