@@ -14,9 +14,11 @@
 
 🌱 **Always learning:**  
 - Exploring **new technologies in backend development**  
-- Cloud computing & distributed systems  
+- Cloud computing & distributed systems
+  
+📬 **Open to internships & collaborations!**
 
-    </td>
+ </td>
     <td align="center" width="50%">
       <a href="https://www.sonnamnguyen.com/">
         <img src="https://media4.giphy.com/media/Rbt3HJ6pSpyco/giphy.gif" width="400px">
