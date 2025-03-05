@@ -1,11 +1,29 @@
-# 👋 Hello, my name is Son Nam!
+# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is Nguyen Son Nam!
 
-🚀 Passionate Java Backend Developer | Software Engineering Student at FPT University
-💻 Specialized in building scalable and efficient backend solutions using Java and Spring Boot
-⚡ Experienced in designing RESTful APIs, database management, and backend optimization
-🌱 Always learning and exploring new technologies in backend development and cloud computing
+<table>
+  <tr>
+    <td width="50%">
+      
+🚀 **Passionate Java Backend Developer**  
+🎓 **Software Engineering Student at FPT University**  
 
-[![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdkNnZjYTl1M3h4Mjc5M21raGcwY29qOHdlMHpkbmgwanY3M3B2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbt3HJ6pSpyco/giphy.gif)](https://www.sonnamnguyen.com/)
+💻 **Specialized in:**  
+- Scalable and efficient backend solutions using **Java & Spring Boot**  
+- **RESTful API design**, database management, and backend optimization  
+
+🌱 **Always learning:**  
+- Exploring **new technologies in backend development**  
+- Cloud computing & distributed systems  
+
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.sonnamnguyen.com/">
+        <img src="https://media4.giphy.com/media/Rbt3HJ6pSpyco/giphy.gif" width="300px">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
