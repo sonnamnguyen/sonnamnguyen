@@ -5,6 +5,7 @@
     <td width="50%">
       
 🚀 **Passionate Java Backend Developer**  
+
 🎓 **Software Engineering Student at FPT University**  
 
 💻 **Specialized in:**  
@@ -18,7 +19,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://www.sonnamnguyen.com/">
-        <img src="https://media4.giphy.com/media/Rbt3HJ6pSpyco/giphy.gif" width="300px">
+        <img src="https://media4.giphy.com/media/Rbt3HJ6pSpyco/giphy.gif" width="500px">
       </a>
     </td>
   </tr>
