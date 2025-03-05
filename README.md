@@ -1,5 +1,8 @@
 [![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdkNnZjYTl1M3h4Mjc5M21raGcwY29qOHdlMHpkbmgwanY3M3B2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbt3HJ6pSpyco/giphy.gif)](https://www.sonnamnguyen.com/)
-
+🚀 Passionate Java Backend Developer | Software Engineering Student at FPT University
+💻 Specialized in building scalable and efficient backend solutions using Java and Spring Boot
+⚡ Experienced in designing RESTful APIs, database management, and backend optimization
+🌱 Always learning and exploring new technologies in backend development and cloud computing
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
