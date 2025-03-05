@@ -1,8 +1,7 @@
-[![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtheDdtazdrcmRubmQ1M3ZldXUyaGp4czljd3FvcGlvemY2dW5pMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif)](https://www.sonnamnguyen.com/)
+[![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdkNnZjYTl1M3h4Mjc5M21raGcwY29qOHdlMHpkbmgwanY3M3B2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbt3HJ6pSpyco/giphy.gif)](https://www.sonnamnguyen.com/)
 
 
 ### Languages
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
