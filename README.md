@@ -19,7 +19,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://www.sonnamnguyen.com/">
-        <img src="https://media4.giphy.com/media/Rbt3HJ6pSpyco/giphy.gif" width="500px">
+        <img src="https://media4.giphy.com/media/Rbt3HJ6pSpyco/giphy.gif" width="400px">
       </a>
     </td>
   </tr>
