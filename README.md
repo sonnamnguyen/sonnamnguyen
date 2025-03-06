@@ -1,4 +1,9 @@
-# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is Nguyen Son Nam!
+<div align="center">
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Nguyen+Son+Nam;Software+Engineering+Student+at+FPT+University;Full-Stack+Web+Developer;Spring+Boot+%26+React+Enthusiast;Building+Blog+Sharing+Website" alt="Typing Animation" />
+</a>
+</div>
+
 
 <table>
   <tr>
