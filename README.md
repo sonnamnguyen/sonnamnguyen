@@ -8,8 +8,6 @@
 <table>
   <tr>
     <td width="50%">
-      
-🚀 **Passionate Java Backend Developer**  
 
 🎓 **Software Engineering Student at FPT University**  
 
