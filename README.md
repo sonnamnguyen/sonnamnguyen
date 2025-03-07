@@ -4,11 +4,11 @@
 </a>
 </div>
 
+## 😎About Me
 
 <table>
   <tr>
     <td width="50%">
-
 🎓 **Software Engineering Student at FPT University**  
 
 💻 **Specialized in:**  
@@ -20,7 +20,6 @@
 - Cloud computing & distributed systems
   
 📬 **Open to internships & collaborations!**
-
  </td>
     <td align="center" width="50%">
       <a href="#">
@@ -30,37 +29,54 @@
   </tr>
 </table>
 
+## 🛠️Languages
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
+</p>
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-
-### Technologies
-
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![SonarQube](https://img.shields.io/badge/-SonarQube-000?&logo=SonarQube)
-![SonarCloud](https://img.shields.io/badge/-SonarCloud-000?&logo=SonarCloud)
+## ⚙️Technologies
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=aws" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=vite" width="50" height="50" />
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=npm" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=nginx" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50" height="50" />
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" />
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cloudflare" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=github" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=gitlab" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50" height="50" />
+</p>
 
 ---
 
 ## 📈 GitHub Analytics
-<div align="center">
-  <img width="378" src="https://github-readme-stats-salesp07.vercel.app/api?username=sonnamnguyen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sonnamnguyen&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
+<details>
+  <summary></summary>
+  <div align="center">
+    <img width="378" src="https://github-readme-stats-salesp07.vercel.app/api?username=sonnamnguyen&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sonnamnguyen&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  </div>
+</details>
+
+
 
 
