@@ -4,7 +4,7 @@
 </a>
 </div>
 
-# ⭐️ About Me
+# 🐧 About Me
 <details>
   <summary></summary>
 <table>
