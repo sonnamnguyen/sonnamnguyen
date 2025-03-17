@@ -17,7 +17,7 @@
 - Scalable and efficient backend solutions using **Java & Spring Boot**  
 - **RESTful API design**, database management, and backend optimization  
 
-🌱 **Always learning:**  
+♨️ **Always learning:**  
 - Exploring **new technologies in backend development**  
 - Cloud computing & distributed systems
   
