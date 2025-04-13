@@ -32,6 +32,7 @@
 </table>
 <br/>
 
+<!--
 ## 🛠️ Languages
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
@@ -41,7 +42,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
 </p>
-
 ## ⚙️ Technologies
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" />
@@ -67,6 +67,7 @@
 <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50" height="50" />
 </p>
+-->
 </details>
 
 ---
