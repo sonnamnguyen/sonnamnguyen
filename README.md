@@ -68,6 +68,20 @@
 <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50" height="50" />
 </p>
+<p align="center">
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" />
+  <!-- Kafka -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50" />
+  <!-- MinIO -->
+  <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" width="50" height="50" />
+  <!-- Elasticsearch -->
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="50" height="50" />
+  <!-- Logstash -->
+  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" width="50" height="50" />
+  <!-- Kibana -->
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="50" height="50" />
+</p>
 </details>
 
 ---
